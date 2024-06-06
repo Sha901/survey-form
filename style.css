@@ -1,0 +1,83 @@
+.two{
+  margin-left: 200px;
+    text-align: center;
+      
+}
+.header{
+    margin-bottom: auto;
+}
+.two-one{
+    margin-top: 0px !important;
+}
+
+.formone{
+    margin-bottom: 10px !important;
+}
+.name{
+ height: 30px !important;
+
+}
+.fnaame{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+.oneplus{
+    width: 200px !important;
+}
+.formtwo{
+    display: flex;
+    flex-direction: row;
+    margin-left: -20px;
+    justify-content: center;
+
+}
+.formthree{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.formfour{
+ justify-content: space-between !important;
+ flex-direction: column;
+
+}
+
+.button{
+    width: 13%;
+    background-color: orange;
+    color: #fff;
+    height: 30px;
+    border-radius: 6px;
+   
+    
+}
+.formfive{
+    text-align: end !important;
+  padding-right: 35px;
+  justify-content: center !important;
+}
+.select{
+    width: 165px;
+  height: 30px;
+  background-color: white;
+
+}
+.formsix{
+    padding-left: 26px;
+}
+.formseven{
+    display: flex;
+    flex-direction: row;
+    margin-left: 110px;
+    justify-content: center;
+}
+.formeight{
+    padding-left: 24px;
+}
+.buttonone{
+    text-align: center;
+    margin-left: 200px;
+
+}
