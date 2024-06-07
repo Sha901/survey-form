@@ -1,11 +1,9 @@
 .formula{
     display: flex !important;
     flex-direction: row !important;
-
 }
 .formulaone{
     padding-right: 40px;
-    
 }
 .formulatwo{
     margin-top: 15px;
