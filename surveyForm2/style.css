@@ -1,0 +1,38 @@
+.formula{
+    display: flex !important;
+    flex-direction: row !important;
+
+}
+.formulaone{
+    padding-right: 40px;
+    
+}
+.formulatwo{
+    margin-top: 15px;
+}
+.checkbox-size{
+width: 300px !important;
+}
+.formula-two{
+    padding-right: 64px;    
+}
+.formula-one{
+    padding-right: 52px;    
+}
+.background{
+    border: 1px ;
+    padding: 8px !important;
+}
+.background-one{
+    border: 1px ;
+    padding: 8px !important;
+    width: 300px;
+}
+.background-two{
+    border: 1px ;
+    padding: 8px !important;
+    text-align: center;   
+}
+.formation{
+    margin-left: 500px;
+}
