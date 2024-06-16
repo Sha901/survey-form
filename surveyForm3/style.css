@@ -1,0 +1,55 @@
+.home-1{
+    border: 20px;
+    width: 1280px;
+    height: 70px;
+    background-color: #1B1B1B;
+    margin-left: 85px;
+    position: static !important;
+    border-radius: 5px !important;
+
+
+}
+.home-2{
+    display: flex;
+    gap: 70px;
+    Width: 717px;
+    margin-left: 85px !important;
+    color: #fff;
+   
+}
+.total-home{
+    background-color: #080808 !important;
+    height: 2500px;
+
+}
+.home-3{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 15px;
+
+}
+.home-4{
+    align-content: center;
+    gap: 10px;
+}
+.home-5{
+    width: 350px ;
+    height: 350px;
+    border-radius: 350px;
+}
+.here{
+    color: #fff;
+}
+.Intro{
+    color: gray;
+}
+.button{
+    width: 308px;
+    height: 63px;
+    background-color: #3F8E00;
+    color: #fff;
+    border-color: #62BA1B;
+    border-radius: 6px;
+}
